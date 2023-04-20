@@ -1,0 +1,9 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+  width: 45%;
+}
+
+button {
+  width: 100%;
+}
